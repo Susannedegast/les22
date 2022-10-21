@@ -1,0 +1,33 @@
+body{
+  background-color:	#F5F5F5;
+  text-align: center;
+}
+input[type="text"],[type="email"],textarea{
+display: block;
+margin-left: 35%;
+margin-right: 5%;
+margin-top: 2%;
+margin-bottom: 2%;
+width: 400px;
+box-sizing: border-box;
+}
+
+.footer{
+width: 100%;
+height:200px;
+background-color:#DCDCDC;
+}
+
+#navbarNav{
+  width: 100%;
+  background-color:#DCDCDC;
+}
+.container{
+background-color:#FFE4C4;
+}
+.img{
+padding: 5px;
+margin: 5 5 5 5px;
+width: 350px;
+height: 250px;
+}
